@@ -1,0 +1,37 @@
+# Core colors from https://news.ycombinator.com/.
+# Additional surfaces and syntax colors are desktop adaptations.
+mode = "light"
+
+accent = "#FF6600"
+selection = "#DEDED8"
+selection_background = "#DEDED8"
+selection_foreground = "#333333"
+muted = "#828282"
+
+background = "#F6F6EF"
+dark_background = "#EBEBE2"
+darker_background = "#DADAD0"
+lighter_background = "#FFFFFF"
+
+foreground = "#333333"
+dark_foreground = "#828282"
+light_foreground = "#555555"
+bright_foreground = "#444444"
+
+# Neutral ANSI palette: orange is reserved for semantic UI accents and alerts,
+# rather than repeated across syntax colors. Slot names retain terminal semantics.
+red = "#FF6600"
+yellow = "#FF6600"
+orange = "#FF6600"
+green = "#505050"
+cyan = "#606060"
+blue = "#555555"
+magenta = "#FF6600"
+brown = "#707070"
+
+bright_red = "#FF6600"
+bright_yellow = "#FF6600"
+bright_green = "#383838"
+bright_cyan = "#484848"
+bright_blue = "#444444"
+bright_magenta = "#FF6600"
